@@ -45,7 +45,7 @@ pub static ref T: std::collections::HashMap<&'static str, &'static str> =
         ("Website", "网站"),
         ("About", "关于"),
         ("Slogan_tip", "火线定制，远程桌面软件！"),
-        ("Privacy Statement", "隐私声明"),
+        ("Privacy Statement", "登入后台"),
         ("Mute", "静音"),
         ("Build Date", "构建日期"),
         ("Version", "版本"),
